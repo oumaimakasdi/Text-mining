@@ -15,8 +15,8 @@ Ce projet concerne la réalisation d'un systeme de recherche basé sur l'analyse
 
 =>2-le deuxième concerne <b>la manipulation</b> des données et la création des fonctions demandées.
 
--Il faut les importer sur Google Colab et les executer successivement
+  -Il faut les importer sur Google Colab et les executer successivement
  
-- Après l'exécution du premier fichier vous aurez 2 nouveaux fichiers CSV (Data.csv et Data_Reviews.csv) sur votre Drive où se stockent les données scrapées.
+-Après l'exécution du premier fichier vous aurez 2 nouveaux fichiers CSV (Data.csv et Data_Reviews.csv) sur votre Drive où se stockent les données scrapées.
 
 -Le code est réparti en sections pour faciliter la lecture et l'exécution.
